@@ -1,0 +1,10 @@
+{
+  "name": "Atlas Financial Terminal",
+  "short_name": "ATLAS",
+  "description": "Terminal financeiro pessoal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090c10",
+  "theme_color": "#090c10",
+  "icons": []
+}
